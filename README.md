@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-AI%20Powered%20HR%20Assistant-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Language-Python-green?style=flat-square">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/<your-username>/AI-Powered-HR-Assistant?style=flat-square">
+  <img src="https://img.shields.io/github/stars/<your-username>/AI-Powered-HR-Assistant?style=flat-square">
+</p>
+
 🚀 AI-Powered HR Assistant
 Automating Workforce Management with AI Agents
 
@@ -39,6 +47,17 @@ Cloud API Ready	Google Sheets API authentication implemented
 
 📌 Architecture Diagram
 → assets/architecture.png
+
+## 🧩 How to Run Locally
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/<your-username>/AI-Powered-HR-Assistant.git
+cd AI-Powered-HR-Assistant
+### Install Requirements
+pip install -r requirements.txt
+###3️⃣ Run Jupyter Notebook
+jupyter notebook notebook/ai_hr_agent_notebook.ipynb
 
 🛠️ Tech Stack
 Category	Tools
@@ -118,5 +137,6 @@ If you find this project useful:
 ⭐ Star this repository
 🍴 Fork it
 💬 Share feedback or ideas
+
 
 
