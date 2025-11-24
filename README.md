@@ -62,9 +62,7 @@ A2A Logs	✓ logs.png
 📦 Project Structure
 AI-Powered-HR-Assistant/
 │
-
 ├── notebook/
-
 │   └── ai_hr_agent_notebook.ipynb
 │
 ├── src/
@@ -78,6 +76,7 @@ AI-Powered-HR-Assistant/
 │
 ├── .gitignore
 └── README.md
+
 
 🚀 Future Deployment Plan
 Phase	Feature	Target
@@ -119,4 +118,5 @@ If you find this project useful:
 ⭐ Star this repository
 🍴 Fork it
 💬 Share feedback or ideas
+
 
